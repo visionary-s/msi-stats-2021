@@ -1,0 +1,14 @@
+.container {
+    width: 70%;
+    margin: 20px 0;
+}
+.card {
+    margin: 2% 2% !important;
+    display: flex;
+}
+
+@media (max-width: 770px) {
+    .card {
+        margin: 2% 0 !important;
+    }
+}
