@@ -5,6 +5,8 @@ from bs4 import BeautifulSoup
 class MsiBootcamp():
     def __init__(self):
         _site = 'https://www.trackingthepros.com/d/list_bootcamp'
+        # head = {}
+        # head['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'
         try:
             res = requests.get(_site)
             if res.status_code == 200:
