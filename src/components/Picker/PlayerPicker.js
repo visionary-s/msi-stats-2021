@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { NativeSelect, FormControl} from '@material-ui/core';
 import styles from './PlayerPicker.module.css';
-import { fetchPlayerList } from '../../api';
+import { fetchPlayer } from '../../api';
 
 
 const PlayerPicker = ({ handlePlayerChange }) => {
@@ -9,7 +9,7 @@ const PlayerPicker = ({ handlePlayerChange }) => {
 
     useEffect(() => {
         const fetchPlayers = async () => {
-            setPlayers(await fetchPlayerList());
+            setPlayers(await fetchPlayer());
         };
         fetchPlayers();
     }, [setPlayers]);

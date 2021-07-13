@@ -1,31 +1,39 @@
 import React from 'react';
-import { Cards, PlayerPicker } from './components';
+import { Cards, PlayerPicker, Tables } from './components';
 import { Home } from './pages';
 import styles from './App.module.css';
-import { fetchPlayer } from './api';
+import { fetchPlayer, fetchGameStats } from './api';
 
 class App extends React.Component{
 
   state = {
-    data: []
+    playerList: [],
+    gameStats: []
+  };
+
+  async componentDidMount() {
+    const gameStats = await fetchGameStats();
+
+    this.setState({gameStats : gameStats});
   }
 
   handlePlayerChange = async (player) => {
-    // fetch data
+    // fetch player list data
     const fetchedPlayer = await fetchPlayer(player);
-    // set data
-    this.setState({data : fetchedPlayer});
-  }
+    // set player list data
+    this.setState({playerList : player? fetchedPlayer : []});
+  };
 
   render() {
-    const { data } = this.state;
-    console.log("passed:", data);
+    const { playerList, gameStats} = this.state;
 
     return (
       <div className={styles.container}>
+        <h1>2021 Mid-Season Invitational</h1>
         <Home />
         <PlayerPicker handlePlayerChange={this.handlePlayerChange} />
-        {data.length !== 0? (<Cards data={data}/>) : null}
+        { playerList.length !== 0? (<Cards data={playerList}/>) : null }
+        { Object.entries(gameStats).map((value) => <React.Fragment><Tables data={value}/></React.Fragment>)}
       </div>
     );
   }

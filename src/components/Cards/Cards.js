@@ -5,7 +5,6 @@ import { Card, CardContent, Grid, Typography } from '@material-ui/core';
 
 const Cards = ( {data} ) => {
 
-    console.log("anchor:", data);
     let highRecord = {"lp": 0};
 
     // const filterRecord = (data) => {

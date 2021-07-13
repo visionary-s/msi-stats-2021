@@ -1,0 +1,1602 @@
+[
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-08 15:45:00",
+            "Team1": "Cloud9",
+            "Team2": "Infinity Esports (Latin American Team)",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Fudge",
+            "Team": "Cloud9",
+            "Champion": "Renekton",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Conqueror",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 3-4_4_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-08 15:45:00",
+            "Team1": "Cloud9",
+            "Team2": "Infinity Esports (Latin American Team)",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Blaber",
+            "Team": "Cloud9",
+            "Champion": "Morgana",
+            "SummonerSpells": "Flash,Smite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Predator",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 3-4_4_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-08 15:45:00",
+            "Team1": "Cloud9",
+            "Team2": "Infinity Esports (Latin American Team)",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Perkz",
+            "Team": "Cloud9",
+            "Champion": "Tristana",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Hail of Blades",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 3-4_4_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-08 15:45:00",
+            "Team1": "Cloud9",
+            "Team2": "Infinity Esports (Latin American Team)",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Zven",
+            "Team": "Cloud9",
+            "Champion": "Jinx",
+            "SummonerSpells": "Flash,Heal",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Lethal Tempo",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 3-4_4_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-08 15:45:00",
+            "Team1": "Cloud9",
+            "Team2": "Infinity Esports (Latin American Team)",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Vulcan (Philippe Laflamme)",
+            "Team": "Cloud9",
+            "Champion": "Thresh",
+            "SummonerSpells": "Flash,Exhaust",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Guardian",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 3-4_4_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-08 15:45:00",
+            "Team1": "Cloud9",
+            "Team2": "Infinity Esports (Latin American Team)",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Buggax",
+            "Team": "Infinity Esports (Latin American Team)",
+            "Champion": "Gangplank",
+            "SummonerSpells": "Teleport,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Grasp of the Undying",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 3-4_4_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-08 15:45:00",
+            "Team1": "Cloud9",
+            "Team2": "Infinity Esports (Latin American Team)",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "SolidSnake",
+            "Team": "Infinity Esports (Latin American Team)",
+            "Champion": "Udyr",
+            "SummonerSpells": "Flash,Smite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Phase Rush",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 3-4_4_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-08 15:45:00",
+            "Team1": "Cloud9",
+            "Team2": "Infinity Esports (Latin American Team)",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "cody",
+            "Team": "Infinity Esports (Latin American Team)",
+            "Champion": "Viktor",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Phase Rush",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 3-4_4_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-08 15:45:00",
+            "Team1": "Cloud9",
+            "Team2": "Infinity Esports (Latin American Team)",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Whitelotus",
+            "Team": "Infinity Esports (Latin American Team)",
+            "Champion": "Kai'Sa",
+            "SummonerSpells": "Cleanse,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Hail of Blades",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 3-4_4_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-08 15:45:00",
+            "Team1": "Cloud9",
+            "Team2": "Infinity Esports (Latin American Team)",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Ackerman (Gabriel Aparicio)",
+            "Team": "Infinity Esports (Latin American Team)",
+            "Champion": "Rell",
+            "SummonerSpells": "Ignite,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Aftershock",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 3-4_4_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 12:09:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Fudge",
+            "Team": "Cloud9",
+            "Champion": "Lee Sin",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Conqueror",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_7_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 12:09:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Blaber",
+            "Team": "Cloud9",
+            "Champion": "Udyr",
+            "SummonerSpells": "Flash,Smite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Phase Rush",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_7_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 12:09:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Perkz",
+            "Team": "Cloud9",
+            "Champion": "Viktor",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Phase Rush",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_7_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 12:09:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Zven",
+            "Team": "Cloud9",
+            "Champion": "Tristana",
+            "SummonerSpells": "Flash,Heal",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Hail of Blades",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_7_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 12:09:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Vulcan (Philippe Laflamme)",
+            "Team": "Cloud9",
+            "Champion": "Alistar",
+            "SummonerSpells": "Flash,Ignite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Aftershock",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_7_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 12:09:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Khan",
+            "Team": "DWG KIA",
+            "Champion": "Jayce",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Conqueror",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_7_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 12:09:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Canyon",
+            "Team": "DWG KIA",
+            "Champion": "Rumble",
+            "SummonerSpells": "Smite,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Conqueror",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_7_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 12:09:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "ShowMaker",
+            "Team": "DWG KIA",
+            "Champion": "Sylas",
+            "SummonerSpells": "Teleport,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Conqueror",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_7_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 12:09:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Ghost (Jang Yong-jun)",
+            "Team": "DWG KIA",
+            "Champion": "Kai'Sa",
+            "SummonerSpells": "Heal,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Hail of Blades",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_7_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 12:09:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "BeryL",
+            "Team": "DWG KIA",
+            "Champion": "Nautilus",
+            "SummonerSpells": "Ignite,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Aftershock",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_7_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 15:57:00",
+            "Team1": "Cloud9",
+            "Team2": "DetonatioN FocusMe",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Fudge",
+            "Team": "Cloud9",
+            "Champion": "Sion",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Grasp of the Undying",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_10_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 15:57:00",
+            "Team1": "Cloud9",
+            "Team2": "DetonatioN FocusMe",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Blaber",
+            "Team": "Cloud9",
+            "Champion": "Morgana",
+            "SummonerSpells": "Flash,Smite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Predator",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_10_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 15:57:00",
+            "Team1": "Cloud9",
+            "Team2": "DetonatioN FocusMe",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Perkz",
+            "Team": "Cloud9",
+            "Champion": "Yone",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Fleet Footwork",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_10_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 15:57:00",
+            "Team1": "Cloud9",
+            "Team2": "DetonatioN FocusMe",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Zven",
+            "Team": "Cloud9",
+            "Champion": "Kai'Sa",
+            "SummonerSpells": "Flash,Heal",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Hail of Blades",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_10_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 15:57:00",
+            "Team1": "Cloud9",
+            "Team2": "DetonatioN FocusMe",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Vulcan (Philippe Laflamme)",
+            "Team": "Cloud9",
+            "Champion": "Nautilus",
+            "SummonerSpells": "Flash,Ignite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Aftershock",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_10_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 15:57:00",
+            "Team1": "Cloud9",
+            "Team2": "DetonatioN FocusMe",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Evi",
+            "Team": "DetonatioN FocusMe",
+            "Champion": "Sett",
+            "SummonerSpells": "Teleport,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Conqueror",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_10_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 15:57:00",
+            "Team1": "Cloud9",
+            "Team2": "DetonatioN FocusMe",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Steal (Mun Geon-yeong)",
+            "Team": "DetonatioN FocusMe",
+            "Champion": "Rumble",
+            "SummonerSpells": "Smite,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Dark Harvest",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_10_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 15:57:00",
+            "Team1": "Cloud9",
+            "Team2": "DetonatioN FocusMe",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Aria (Lee Ga-eul)",
+            "Team": "DetonatioN FocusMe",
+            "Champion": "Zoe",
+            "SummonerSpells": "Ignite,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Electrocute",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_10_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 15:57:00",
+            "Team1": "Cloud9",
+            "Team2": "DetonatioN FocusMe",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Yutapon",
+            "Team": "DetonatioN FocusMe",
+            "Champion": "Tristana",
+            "SummonerSpells": "Heal,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Hail of Blades",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_10_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-11 15:57:00",
+            "Team1": "Cloud9",
+            "Team2": "DetonatioN FocusMe",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Kazu",
+            "Team": "DetonatioN FocusMe",
+            "Champion": "Alistar",
+            "SummonerSpells": "Ignite,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Aftershock",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Groups Days 5-6_10_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-14 17:28:00",
+            "Team1": "Cloud9",
+            "Team2": "MAD Lions",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Fudge",
+            "Team": "Cloud9",
+            "Champion": "Sion",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Grasp of the Undying",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_6_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-14 17:28:00",
+            "Team1": "Cloud9",
+            "Team2": "MAD Lions",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Blaber",
+            "Team": "Cloud9",
+            "Champion": "Rumble",
+            "SummonerSpells": "Flash,Smite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Predator",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_6_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-14 17:28:00",
+            "Team1": "Cloud9",
+            "Team2": "MAD Lions",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Perkz",
+            "Team": "Cloud9",
+            "Champion": "Kindred",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Press the Attack",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_6_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-14 17:28:00",
+            "Team1": "Cloud9",
+            "Team2": "MAD Lions",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Zven",
+            "Team": "Cloud9",
+            "Champion": "Kalista",
+            "SummonerSpells": "Flash,Cleanse",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Lethal Tempo",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_6_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-14 17:28:00",
+            "Team1": "Cloud9",
+            "Team2": "MAD Lions",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Vulcan (Philippe Laflamme)",
+            "Team": "Cloud9",
+            "Champion": "Nautilus",
+            "SummonerSpells": "Flash,Ignite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Aftershock",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_6_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-14 17:28:00",
+            "Team1": "Cloud9",
+            "Team2": "MAD Lions",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Armut",
+            "Team": "MAD Lions",
+            "Champion": "Sylas",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Conqueror",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_6_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-14 17:28:00",
+            "Team1": "Cloud9",
+            "Team2": "MAD Lions",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Elyoya",
+            "Team": "MAD Lions",
+            "Champion": "Udyr",
+            "SummonerSpells": "Flash,Smite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Phase Rush",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_6_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-14 17:28:00",
+            "Team1": "Cloud9",
+            "Team2": "MAD Lions",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Humanoid",
+            "Team": "MAD Lions",
+            "Champion": "Lucian",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Press the Attack",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_6_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-14 17:28:00",
+            "Team1": "Cloud9",
+            "Team2": "MAD Lions",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Carzzy",
+            "Team": "MAD Lions",
+            "Champion": "Kai'Sa",
+            "SummonerSpells": "Flash,Heal",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Hail of Blades",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_6_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-14 17:28:00",
+            "Team1": "Cloud9",
+            "Team2": "MAD Lions",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Kaiser",
+            "Team": "MAD Lions",
+            "Champion": "Leona",
+            "SummonerSpells": "Flash,Ignite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Aftershock",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_6_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-15 15:52:00",
+            "Team1": "Cloud9",
+            "Team2": "PSG Talon",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Fudge",
+            "Team": "Cloud9",
+            "Champion": "Sett",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Conqueror",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_10_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-15 15:52:00",
+            "Team1": "Cloud9",
+            "Team2": "PSG Talon",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Blaber",
+            "Team": "Cloud9",
+            "Champion": "Udyr",
+            "SummonerSpells": "Flash,Smite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Phase Rush",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_10_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-15 15:52:00",
+            "Team1": "Cloud9",
+            "Team2": "PSG Talon",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Perkz",
+            "Team": "Cloud9",
+            "Champion": "Viktor",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Phase Rush",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_10_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-15 15:52:00",
+            "Team1": "Cloud9",
+            "Team2": "PSG Talon",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Zven",
+            "Team": "Cloud9",
+            "Champion": "Kog'Maw",
+            "SummonerSpells": "Flash,Cleanse",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Lethal Tempo",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_10_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-15 15:52:00",
+            "Team1": "Cloud9",
+            "Team2": "PSG Talon",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Vulcan (Philippe Laflamme)",
+            "Team": "Cloud9",
+            "Champion": "Lulu",
+            "SummonerSpells": "Flash,Heal",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Guardian",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_10_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-15 15:52:00",
+            "Team1": "Cloud9",
+            "Team2": "PSG Talon",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Hanabi (Su Chia-Hsiang)",
+            "Team": "PSG Talon",
+            "Champion": "Lee Sin",
+            "SummonerSpells": "Teleport,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Conqueror",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_10_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-15 15:52:00",
+            "Team1": "Cloud9",
+            "Team2": "PSG Talon",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "River (Kim Dong-woo)",
+            "Team": "PSG Talon",
+            "Champion": "Morgana",
+            "SummonerSpells": "Smite,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Predator",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_10_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-15 15:52:00",
+            "Team1": "Cloud9",
+            "Team2": "PSG Talon",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Maple (Huang Yi-Tang)",
+            "Team": "PSG Talon",
+            "Champion": "Akali",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Fleet Footwork",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_10_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-15 15:52:00",
+            "Team1": "Cloud9",
+            "Team2": "PSG Talon",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Doggo",
+            "Team": "PSG Talon",
+            "Champion": "Kai'Sa",
+            "SummonerSpells": "Flash,Heal",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Hail of Blades",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_10_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-15 15:52:00",
+            "Team1": "Cloud9",
+            "Team2": "PSG Talon",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Kaiwing",
+            "Team": "PSG Talon",
+            "Champion": "Leona",
+            "SummonerSpells": "Flash,Ignite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Aftershock",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 1-2_10_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 12:49:00",
+            "Team1": "Cloud9",
+            "Team2": "Pentanet.GG",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Fudge",
+            "Team": "Cloud9",
+            "Champion": "Jayce",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Phase Rush",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_1_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 12:49:00",
+            "Team1": "Cloud9",
+            "Team2": "Pentanet.GG",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Blaber",
+            "Team": "Cloud9",
+            "Champion": "Udyr",
+            "SummonerSpells": "Flash,Smite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Phase Rush",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_1_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 12:49:00",
+            "Team1": "Cloud9",
+            "Team2": "Pentanet.GG",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Perkz",
+            "Team": "Cloud9",
+            "Champion": "Zoe",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Unsealed Spellbook",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_1_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 12:49:00",
+            "Team1": "Cloud9",
+            "Team2": "Pentanet.GG",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Zven",
+            "Team": "Cloud9",
+            "Champion": "Senna",
+            "SummonerSpells": "Flash,Heal",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Glacial Augment",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_1_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 12:49:00",
+            "Team1": "Cloud9",
+            "Team2": "Pentanet.GG",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Vulcan (Philippe Laflamme)",
+            "Team": "Cloud9",
+            "Champion": "Tahm Kench",
+            "SummonerSpells": "Flash,Exhaust",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Guardian",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_1_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 12:49:00",
+            "Team1": "Cloud9",
+            "Team2": "Pentanet.GG",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "BioPanther",
+            "Team": "Pentanet.GG",
+            "Champion": "Yorick",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Grasp of the Undying",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_1_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 12:49:00",
+            "Team1": "Cloud9",
+            "Team2": "Pentanet.GG",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Pabu",
+            "Team": "Pentanet.GG",
+            "Champion": "Morgana",
+            "SummonerSpells": "Flash,Smite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Predator",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_1_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 12:49:00",
+            "Team1": "Cloud9",
+            "Team2": "Pentanet.GG",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Chazz",
+            "Team": "Pentanet.GG",
+            "Champion": "Syndra",
+            "SummonerSpells": "Teleport,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Phase Rush",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_1_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 12:49:00",
+            "Team1": "Cloud9",
+            "Team2": "Pentanet.GG",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Praedyth",
+            "Team": "Pentanet.GG",
+            "Champion": "Samira",
+            "SummonerSpells": "Flash,Exhaust",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Conqueror",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_1_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 12:49:00",
+            "Team1": "Cloud9",
+            "Team2": "Pentanet.GG",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Decoy",
+            "Team": "Pentanet.GG",
+            "Champion": "Nautilus",
+            "SummonerSpells": "Ignite,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Aftershock",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_1_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 16:11:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Fudge",
+            "Team": "Cloud9",
+            "Champion": "Renekton",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Conqueror",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_5_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 16:11:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Blaber",
+            "Team": "Cloud9",
+            "Champion": "Morgana",
+            "SummonerSpells": "Flash,Smite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Predator",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_5_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 16:11:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Perkz",
+            "Team": "Cloud9",
+            "Champion": "Orianna",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Phase Rush",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_5_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 16:11:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Zven",
+            "Team": "Cloud9",
+            "Champion": "Tristana",
+            "SummonerSpells": "Flash,Heal",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Hail of Blades",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_5_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 16:11:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Vulcan (Philippe Laflamme)",
+            "Team": "Cloud9",
+            "Champion": "Alistar",
+            "SummonerSpells": "Flash,Ignite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Aftershock",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_5_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 16:11:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Khan",
+            "Team": "DWG KIA",
+            "Champion": "Gangplank",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Grasp of the Undying",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_5_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 16:11:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Canyon",
+            "Team": "DWG KIA",
+            "Champion": "Udyr",
+            "SummonerSpells": "Smite,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Phase Rush",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_5_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 16:11:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "ShowMaker",
+            "Team": "DWG KIA",
+            "Champion": "Viktor",
+            "SummonerSpells": "Teleport,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Phase Rush",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_5_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 16:11:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "Ghost (Jang Yong-jun)",
+            "Team": "DWG KIA",
+            "Champion": "Kai'Sa",
+            "SummonerSpells": "Heal,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Hail of Blades",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_5_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-16 16:11:00",
+            "Team1": "Cloud9",
+            "Team2": "DWG KIA",
+            "Winner": "2",
+            "Patch": "11.9",
+            "Link": "BeryL",
+            "Team": "DWG KIA",
+            "Champion": "Nautilus",
+            "SummonerSpells": "Ignite,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Aftershock",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_5_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-17 14:47:00",
+            "Team1": "Cloud9",
+            "Team2": "Royal Never Give Up",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Fudge",
+            "Team": "Cloud9",
+            "Champion": "Lee Sin",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Conqueror",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_9_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-17 14:47:00",
+            "Team1": "Cloud9",
+            "Team2": "Royal Never Give Up",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Blaber",
+            "Team": "Cloud9",
+            "Champion": "Volibear",
+            "SummonerSpells": "Flash,Smite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Press the Attack",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_9_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-17 14:47:00",
+            "Team1": "Cloud9",
+            "Team2": "Royal Never Give Up",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Perkz",
+            "Team": "Cloud9",
+            "Champion": "Zoe",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Unsealed Spellbook",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_9_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-17 14:47:00",
+            "Team1": "Cloud9",
+            "Team2": "Royal Never Give Up",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Zven",
+            "Team": "Cloud9",
+            "Champion": "Kai'Sa",
+            "SummonerSpells": "Flash,Heal",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Hail of Blades",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_9_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-17 14:47:00",
+            "Team1": "Cloud9",
+            "Team2": "Royal Never Give Up",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Vulcan (Philippe Laflamme)",
+            "Team": "Cloud9",
+            "Champion": "Leona",
+            "SummonerSpells": "Flash,Ignite",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Aftershock",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_9_1",
+            "Side": "1",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-17 14:47:00",
+            "Team1": "Cloud9",
+            "Team2": "Royal Never Give Up",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Xiaohu",
+            "Team": "Royal Never Give Up",
+            "Champion": "Jayce",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Conqueror",
+            "Role": "Top",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_9_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-17 14:47:00",
+            "Team1": "Cloud9",
+            "Team2": "Royal Never Give Up",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Wei (Yan Yang-Wei)",
+            "Team": "Royal Never Give Up",
+            "Champion": "Rumble",
+            "SummonerSpells": "Smite,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Dark Harvest",
+            "Role": "Jungle",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_9_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-17 14:47:00",
+            "Team1": "Cloud9",
+            "Team2": "Royal Never Give Up",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Cryin",
+            "Team": "Royal Never Give Up",
+            "Champion": "Twisted Fate",
+            "SummonerSpells": "Flash,Teleport",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Unsealed Spellbook",
+            "Role": "Mid",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_9_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-17 14:47:00",
+            "Team1": "Cloud9",
+            "Team2": "Royal Never Give Up",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "GALA",
+            "Team": "Royal Never Give Up",
+            "Champion": "Xayah",
+            "SummonerSpells": "Flash,Cleanse",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Lethal Tempo",
+            "Role": "Bot",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_9_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    },
+    {
+        "title": {
+            "Tournament": "MSI 2021",
+            "DateTime UTC": "2021-05-17 14:47:00",
+            "Team1": "Cloud9",
+            "Team2": "Royal Never Give Up",
+            "Winner": "1",
+            "Patch": "11.9",
+            "Link": "Ming (Shi Sen-Ming)",
+            "Team": "Royal Never Give Up",
+            "Champion": "Nautilus",
+            "SummonerSpells": "Ignite,Flash",
+            "KeystoneMastery": "",
+            "KeystoneRune": "Aftershock",
+            "Role": "Support",
+            "UniqueGame": "2021 Mid-Season Invitational/Scoreboards/Rumble Days 3-5_9_1",
+            "Side": "2",
+            "DateTime UTC__precision": "0"
+        }
+    }
+]
